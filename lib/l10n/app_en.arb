@@ -1,0 +1,146 @@
+{
+    "homeBottomNav": "Home",
+    "@homeBottomNav" : {
+      "description": "Home option in BottomNav"
+    },
+    "productBottomNav": "Products",
+    "@productBottomNav" : {
+      "description": "Products option in BottomNav"
+    },
+    "cartBottomNav": "Cart",
+    "@cartBottomNav" : {
+      "description": "Cart option in BottomNav"
+    },
+    "bookBottomNav": "Book a slot",
+    "@bookBottomNav" : {
+      "description": "Book a slot option in BottomNav"
+    },
+    "moreBottomNav": "More",
+    "@moreBottomNav" : {
+      "description": "More option in BottomNav"
+    },
+    "myOrders": "My orders",
+    "@myOrders" : {
+      "description": "More screen option 1"
+    },
+    "myAccount": "My account",
+    "@myAccount" : {
+      "description": "More screen option 2"
+    },
+    "recipes": "Recipes",
+    "@recipes" : {
+      "description": "More screen option 3"
+    },
+    "information": "Information",
+    "@information" : {
+      "description": "More screen option 4"
+    },
+    "donation": "Donation",
+    "@donation" : {
+      "description": "More screen option 5"
+    },
+    "needHelp": "Need help ?",
+    "@needHelp" : {
+      "description": "More screen option 6"
+    },
+    "logOut": "Log Out",
+    "@logOut" : {
+      "description": "More screen option 7"
+    },
+    "deliverToHome": "DELIVER TO HOME",
+    "@deliverToHome" : {
+      "description": "Book a slot tab 1"
+    },
+    "willPickupMyself": "WILL PICK UP MYSELF",
+    "@willPickupMyself" : {
+      "description": "Book a slot tab 2"
+    },
+    "placeOfDelivery": "Place of delivery",
+    "@placeOfDelivery" : {
+      "description": "Book a slot heading 1"
+    },
+    "deliveryTime": "Delivery time",
+    "@deliveryTime" : {
+      "description": "Book a slot heading 2"
+    },
+    "select": "Select",
+    "@select" : {
+      "description": "Book a slot button 1"
+    },
+    "cancel": "Cancel",
+    "@cancel" : {
+      "description": "Book a slot button 2"
+    },
+    "cart": "Cart",
+    "@cart" : {
+      "description": "Progress widget option 1"
+    },
+    "bookASlot": "Book a slot",
+    "@bookASlot" : {
+      "description": "Progress widget option 2"
+    },
+    "payment": "Payment",
+    "@payment" : {
+      "description": "Progress widget option 3"
+    },
+    "saveCart": "Save cart",
+    "@saveCart" : {
+      "description": "Save cart option"
+    },
+    "buy": "Buy",
+    "@buy" : {
+      "description": "Buy button"
+    },
+    "similar": "Similar",
+    "@similar" : {
+      "description": "similar"
+    },
+    "discountAndCoupon": "Discount coupons and codes",
+    "@discountAndCoupon" : {
+      "description": "discountAndCoupon"
+    },
+    "productSearch": "Product search",
+    "@productSearch" : {
+      "description": "Product search bar"
+    },
+    "specialOffers": "Special offers",
+    "@specialOffers" : {
+      "description": "special Offers"
+    },
+    "ourRecommendation": "Our recommendations",
+    "@ourRecommendation" : {
+      "description": "our Recommendation"
+    },
+    "popularProducts": "Popular products",
+    "@popularProducts" : {
+      "description": "popular Products"
+    },
+    "recommendedPromo": "Recommended promotions",
+    "@recommendedPromo" : {
+      "description": "recommended Promo"
+    },
+    "viewAll": "View all",
+    "@viewAll" : {
+      "description": "view All"
+    },
+    "save": "Save",
+    "@save" : {
+      "description": "save"
+    },
+    "notAvail": "Not available",
+    "@notAvail" : {
+      "description": "not Avail"
+    },
+    "changeTimeLocation": "Change time/location",
+    "@changeTimeLocation" : {
+      "description": "Change Time Location"
+    },
+    "booked": "Booked",
+    "@booked" : {
+      "description": "Booked"
+    },
+     "chooseLang": "Choose Language",
+     "@chooseLang" : {
+       "description": "choose Lang"
+     }
+}
